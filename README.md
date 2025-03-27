@@ -1,14 +1,20 @@
-# Calculadora en Java 🧮 (resumido)
+<h1 align="center">Calculadora en Java</h1>💱
 
 <div align="center">
-  <img src="
-  " alt="Calculadora sin ejecutar" width="700" height="600" />
-  <img src="
-  " alt="Calculadora ejecutada" width="700" height="600" />
+  <img src="https://github.com/user-attachments/assets/b7546c34-598c-4c5e-95d6-73ceb9f4c0c4" alt="Calculadora sin ejecutar" width="500" height="650" />
+  <div align="center">
+    Calculadora sin ejecutar
+  </div>
+  <br> 
+
+  <img src="https://github.com/user-attachments/assets/a958d400-2cdc-4042-86aa-20768d4010c8" alt="Calculadora ejecutada" width="500" height="650" />
+  <div align="center">
+    Calculadora ejecutada
+  </div>
 </div>
-<div align="center">
-  App ejecutada en terminal
-</div>
+
+<br> 
+
 
 Calculadora mostrando el resultado de la operaciónde 29+29
 
