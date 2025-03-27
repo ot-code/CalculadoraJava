@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora en Java 🧮</h1>💱
+<h1 align="center">Calculadora en Java 🧮</h1>
 
 Esta aplicación es una **calculadora básica** desarrollada en Java, diseñada para demostrar conceptos fundamentales de programación orientada a objetos y la construcción de interfaces gráficas de usuario utilizando el framework **Swing**. El proyecto fue creado en el entorno de desarrollo **NetBeans**, lo que permitió aprovechar su editor visual para organizar y diseñar la interfaz de forma intuitiva.
 
